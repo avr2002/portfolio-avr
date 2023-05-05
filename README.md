@@ -8,7 +8,7 @@
 * **
 
 ### Education
-- BS in Data Science and Application | [IIT Madras](https://study.iitm.ac.in/ds/) | [(CGPA: 8.5 till Sem-4)]()
+- BS in Data Science and Application | [IIT Madras](https://study.iitm.ac.in/ds/) | [(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)
 
 ### Work Experience
 

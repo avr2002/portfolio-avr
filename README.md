@@ -1,6 +1,6 @@
 # Aspiring Data Scientist/Machine Learning Engineer
 
-#### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/)|[GitHub](https://github.com/avr2002)|[MailID](avr13405@gmail.com)
+#### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com)
 
 ### Skills
 - **Programming Skills: Python, SQL, LaTex**

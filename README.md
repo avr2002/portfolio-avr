@@ -1,5 +1,7 @@
 # Aspiring Data Scientist/Machine Learning Engineer
 
+#### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/)|[GitHub](https://github.com/avr2002)|[MailID](avr13405@gmail.com)
+
 ### Skills
 - **Programming Skills: Python, SQL, LaTex**
 - **Technical Skills: Tensorflow, Keras, Scikit-Learn, Pandas, NumPy, SciPy, Gensim, NLTK, Flask, Streamlit**
@@ -8,7 +10,9 @@
 * **
 
 ## Education
-BS in Data Science and Application|[IIT Madras](https://study.iitm.ac.in/ds/)|[(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)
+- BS in Data Science and Application|[IIT Madras](https://study.iitm.ac.in/ds/)|[(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)|2021-2025(Expexted)
+
+- Star International School|Ranchi, JH, India|12th Standard CBSE Board (Percentage: 86.8%) 2020
 
 ## Work Experience
 [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) - Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view)|(Aug 2022 – Jan 2023)

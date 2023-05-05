@@ -45,6 +45,6 @@ the pipeline is happening as expected. (Data Validator Tool)
     
 * **
 
-- Credit Card Default Prediction [Github](https://github.com/avr2002/credit-card-default-prediction)
-- Regression Models for House Price Prediction [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
-- Kaggle House Price Prediction [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
+- Credit Card Default Prediction | [Github](https://github.com/avr2002/credit-card-default-prediction)
+- Regression Models for House Price Prediction | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
+- Kaggle House Price Prediction | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)

@@ -10,7 +10,7 @@
 * **
 
 ## Education
-- BS in Data Science & Application [(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expexted)
+- BS in Data Science & Application [(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expected)
 
 - 12th Standard CBSE Board (Percentage: 86.8%)|Star International School, Ranchi, JH, India|2018-2020 
 
@@ -45,6 +45,6 @@ the pipeline is happening as expected. (Data Validator Tool)
     
 * **
 
-- Credit Card Default Prediction | [Github](https://github.com/avr2002/credit-card-default-prediction)
-- Regression Models for House Price Prediction | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
+- **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
+- **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
 - Kaggle House Price Prediction | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)

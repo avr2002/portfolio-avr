@@ -10,7 +10,7 @@
 * **
 
 ## Education
-- BS in Data Science and Application|[IIT Madras](https://study.iitm.ac.in/ds/)|[(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)|2021-2025(Expexted)
+- BS in Data Science & Application [(CGPA: 8.5 till Sem-4)](https://github.com/avr2002/portfolio-avr/blob/main/assets/Sem-4-Score.pdf)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expexted)
 
 - Star International School|Ranchi, JH, India|12th Standard CBSE Board (Percentage: 86.8%) 2020
 

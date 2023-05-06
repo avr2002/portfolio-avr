@@ -1,4 +1,4 @@
-# Aspiring Data Scientist/Machine Learning Engineer
+# Data Scientist/Machine Learning Engineer
 
 #### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com)
 

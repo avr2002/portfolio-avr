@@ -1,8 +1,6 @@
 # Data Scientist/Machine Learning Engineer
 
-<div href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" align="right">
-    <a>Download My Resume</a>
-</div>
+<p href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" align="right">Download My Resume</p>
 
 #### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com)
 

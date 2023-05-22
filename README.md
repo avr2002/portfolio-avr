@@ -33,6 +33,12 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 * **
 
+- **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
+  - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
+  - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).
+
+* **
+
 - **Medical Data Extraction Project** | [Github](https://github.com/avr2002/medical-data-extraction-project)
   - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
   - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework

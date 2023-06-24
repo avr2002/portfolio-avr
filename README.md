@@ -28,7 +28,7 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 ## Projects
 - **Medical Embeddings and Clinical Trial Search Engine** | [Github](https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine)
-  - **Technologies Used: Python, Gensim, Word2Vec, FastText, Steamlit, Git**
+  - **Technologies Used: Python, Gensim, Word2Vec, FastText, Streamlit, Git**
   - The Project aims to train SkipGram and FastText Models on COVID-19 Clinical Trials Dataset and builds a Search Engine where user can type any COVID-19 related keyword and it presents all the top n similar results from the dataset
 
 * **

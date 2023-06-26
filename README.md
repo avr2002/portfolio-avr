@@ -27,6 +27,12 @@ the pipeline is happening as expected. (Data Validator Tool)
 * **
 
 ## Projects
+- **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
+  - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
+  - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
+  - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**. 
+
+
 - **Medical Embeddings and Clinical Trial Search Engine** | [Github](https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine)
   - **Technologies Used: Python, Gensim, Word2Vec, FastText, Streamlit, Git**
   - The Project aims to train SkipGram and FastText Models on COVID-19 Clinical Trials Dataset and builds a Search Engine where user can type any COVID-19 related keyword and it presents all the top n similar results from the dataset

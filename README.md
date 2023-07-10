@@ -5,9 +5,9 @@
 ### Skills
 - **Programming Skills: Python, SQL, LaTex**
 - **Technical Skills:**
-    - *TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, Git, GitHub, Excel, PowerPoint*
+    - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, Git, GitHub, Excel, PowerPoint***
 - **Familiar Tools:**
-    - *Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh*
+    - ***Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh***
 
 * **
 

@@ -20,9 +20,9 @@
 **Skills: Python, CyberSecurity, Statistics, Data Analysis, Machine Learning, IoT/IoMT**
 - Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying
 cyber risk to IoMT/IoT devices.
-- Wrote python scripts that analyzed Terabytes of data to generate (txt & excel) reports that checked if the data flow in
+- Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in
 the pipeline is happening as expected. (Data Validator Tool)
-- Worked in Baselining for hospitals network data to identify any malicious behaviour.
+- Worked in Baselining for hospitals' network data to identify any malicious behavior.
 
 * **
 
@@ -30,7 +30,8 @@ the pipeline is happening as expected. (Data Validator Tool)
 - **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
   - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
-  - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**. 
+  - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**.
+  - **BERTopic** & **Top2Vec** were also explored which gave quite good results.
 
 
 - **Medical Embeddings and Clinical Trial Search Engine** | [Github](https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine)

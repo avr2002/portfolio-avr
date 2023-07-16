@@ -7,7 +7,7 @@
 - **Technical Skills:**
     - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, BeautifulSoup, Git, GitHub, Excel, PowerPoint***
 - **Familiar Tools:**
-    - ***Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh, Selenium***
+    - ***XGBoost, LightGBM, Streamlit, Flask, FastAPI, Docker, OpenCV, Plotly, bokeh, Selenium***
 
 * **
 

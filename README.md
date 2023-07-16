@@ -2,7 +2,7 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com) | [***Download My Resume***](https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing)
 
-### Skills
+### **Skills**
 - **Programming Skills: Python, SQL, LaTex**
 - **Technical Skills:**
     - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, BeautifulSoup, Git, GitHub, Excel, PowerPoint***
@@ -11,12 +11,7 @@
 
 * **
 
-## Education
-- BS in Data Science & Application [(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expected)
-
-- 12th Standard CBSE Board (Percentage: 86.8%)|Star International School, Ranchi, JH, India|2018-2020 
-
-## Work Experience
+## **Work Experience**
 [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
 
 **Skills: Python, CyberSecurity, Statistics, Data Analysis, Machine Learning, IoT/IoMT**
@@ -28,7 +23,9 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 * **
 
-## Projects
+## **Projects**
+
+### **NLP Projects**
 - **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
   - **Technologies Used:**  Python, Regex, NLTK, Gensim, ScikitLearn, tSNE, pyLDAvis, bokeh, Git
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
@@ -41,6 +38,8 @@ the pipeline is happening as expected. (Data Validator Tool)
   - The Project aims to train SkipGram and FastText Models on COVID-19 Clinical Trials Dataset and builds a Search Engine where user can type any COVID-19 related keyword and it presents all the top n similar results from the dataset
 
 * **
+
+### **Machine Learning & Python Projects** 
 
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
   - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
@@ -62,4 +61,11 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 - **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
 - **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
-- Kaggle House Price Prediction | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
+- **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
+
+* **
+
+## **Education**
+- BS in Data Science & Application [(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expected)
+
+- 12th Standard CBSE Board (Percentage: 86.8%)|Star International School, Ranchi, JH, India|2018-2020 

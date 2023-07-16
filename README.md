@@ -45,19 +45,16 @@ the pipeline is happening as expected. (Data Validator Tool)
   - **Technologies Used: Python, scikit-learn, h2o, tensorflow, flask, gunicorn**
   - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).
 
-* **
 
 - **Medical Data Extraction Project** | [Github](https://github.com/avr2002/medical-data-extraction-project)
   - **Technologies Used: Python, Regex, OpenCV, Pytesseract, FastAPI**
   - Python backend was built using pytesseract, OpenCV, Regular expressions and FastAPI as a web serving framework
   - Auto extracted important fields from patient details and medical prescriptions. Image processing was performed in OpenCV and then pytesseract was used for image to text conversion. The last step was to use Regular Expression (Regex) for extracting important fields from the text
 
-* **
 
 - **SQL Project: Provide Insights to Management in Consumer Goods Domain**
     - [Project Github Link](https://github.com/avr2002/sql-project-consumer-goods-domain) & [Certificate of Participation](https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link)
     
-* **
 
 - **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
 - **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)

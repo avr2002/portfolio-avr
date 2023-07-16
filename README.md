@@ -63,6 +63,6 @@ the pipeline is happening as expected. (Data Validator Tool)
 * **
 
 ## **Education**
-- BS in Data Science & Application [(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing)|[IIT Madras](https://study.iitm.ac.in/ds/)|2021-2025(Expected)
+- BS in Data Science & Application[(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing) | [IIT Madras](https://study.iitm.ac.in/ds/) | 2021-2025(Expected)
 
 - 12th Standard CBSE Board (Percentage: 86.8%)|Star International School, Ranchi, JH, India|2018-2020 

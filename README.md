@@ -2,7 +2,7 @@
 
 #### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com) | [***Download My Resume***](https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing)
 
-### **Skills**
+## **Skills**
 - **Programming Skills: Python, SQL, LaTex**
 - **Technical Skills:**
     - ***TensorFlow, Keras, Scikit-Learn, Gensim, NLTK, Pytesseract, PyCaret, Pandas, NumPy, Matplotlib, Seaborn, Regex, SciPy, BeautifulSoup, Git, GitHub, Excel, PowerPoint***

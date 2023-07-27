@@ -1,6 +1,6 @@
 # **Machine Learning Engineer**
 
-#### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | [MailID](avr13405@gmail.com) | [***Download My Resume***](https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing)
+#### [LinkedIn](https://www.linkedin.com/in/amit-vikram-raj-883460207/) | [GitHub](https://github.com/avr2002) | avr13405@gmail.com | [***Download My Resume***](https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing)
 
 ## **Skills**
 - **Programming Skills: Python, SQL, LaTex**
@@ -65,4 +65,4 @@ the pipeline is happening as expected. (Data Validator Tool)
 ## **Education**
 - BS in Data Science & Application[(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing) | [IIT Madras](https://study.iitm.ac.in/ds/) | 2021-2025(Expected)
 
-- 12th Std. CBSE Board(Percentage: 86.8%) | Star International School, Ranchi, JH, India | 2018-2020 
+- 12th Std. CBSE Board(Percentage: 86.8%) | Star International School, Ranchi, JH | 2018-2020 

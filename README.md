@@ -48,7 +48,7 @@ the pipeline is happening as expected. (Data Validator Tool)
 - **Muti-class Image Classification Model** | [Github](https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction)
     - **Technologies Used: Python, tensorflow, keras, matplotlib, flask, gunicorn, pathlib, numpy**
     - The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.
-    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using `gunicorn` and `flask` API.
+    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using gunicorn and flask API.
 
 ### **Machine Learning & Python Projects** 
 

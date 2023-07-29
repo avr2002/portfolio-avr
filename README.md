@@ -39,6 +39,17 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 * **
 
+### **Computer Vision Projects**
+- **Image Coloring using Autoencoders** | [Github](https://github.com/avr2002/Image-Coloring-using-Autoencoders)
+    - **Technologies Used: Python, TensorFlow, Keras, scikit-image, matplotlib, numpy**
+    -  I tried using Autoencoders and Transfer Learning for this one. I tried VGG16 and InceptionResNetV2 as an encoder/feature extractor layer and a custom decoder layer.
+
+
+- **Muti-class Image Classification Model** | [Github](https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction)
+    - **Technologies Used: Python, tensorflow, keras, matplotlib, flask, gunicorn, pathlib, numpy**
+    - The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.
+    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using `gunicorn` and `flask` API.
+
 ### **Machine Learning & Python Projects** 
 
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)

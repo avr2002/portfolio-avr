@@ -1,6 +1,7 @@
 # **Machine Learning Engineer**
 
-#### [LinkedIn](https://www.linkedin.com/in/avr27/) | [GitHub](https://github.com/avr2002) | avr13405@gmail.com | [**Download Resume**](https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing)
+#### [LinkedIn](https://www.linkedin.com/in/avr27/) | [GitHub](https://github.com/avr2002) | avr13405@gmail.com | <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing"><b>Download Resume</b></a>
+
 
 ## **Skills**
 - **Programming Skills: Python, SQL, LaTex**

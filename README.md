@@ -72,12 +72,21 @@ the pipeline is happening as expected. (Data Validator Tool)
     
 
 - **Credit Card Default Prediction** | [Github](https://github.com/avr2002/credit-card-default-prediction)
+    - This a classic Credit Card Default Prediction project where based on customer profile we want to predict whether the borrower is likely to default in the next 2 years or not have a delinquency of more than 3 months.
+    - LogisticRegression, RandomForst, XGBoost, LightGBM, and a vanilla Neural Network was implemented in modeling.
+
+
 - **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
+      - House Price Prediction on Pune Real-estate dataset using different regression models like Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, XGBoost.
+      - Also, multi-layer perceptron(MLP) was implemented using TensorFlow
+
+  
 - **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
+    - My very first Project.
 
 * **
 
 ## **Education**
 - BS in Data Science & Application[(CGPA: 8.5 till Sem-5)](https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing) | [IIT Madras](https://study.iitm.ac.in/ds/) | 2021-2025(Expected)
 
-- 12th Std. CBSE Board(Percentage: 86.8%) | Star International School, Ranchi, JH | 2018-2020 
+- 12th Std. CBSE Board([Percentage: 86.8%](https://drive.google.com/file/d/10N3ilh8IcbCXWZk8Ct2XRwW2SZ5KW0pN/view?usp=sharing)) | Star International School, Ranchi, JH | 2018-2020 

@@ -77,8 +77,8 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 
 - **Regression Models for House Price Prediction** | [GitHub](https://github.com/avr2002/Regression-Models-for-House-Price-Prediction)
-      - House Price Prediction on Pune Real-estate dataset using different regression models like Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, XGBoost.
-      - Also, multi-layer perceptron(MLP) was implemented using TensorFlow
+    - House Price Prediction on Pune Real-estate dataset using different regression models like Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, XGBoost.
+    - Also, multi-layer perceptron(MLP) was implemented using TensorFlow
 
   
 - **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)

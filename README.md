@@ -6,18 +6,18 @@
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
 ## **Skills**
-- **Programming Skills:** `Python`, `SQL`, `LaTex`
+- **Programming Skills: `Python`, `SQL`, `LaTex`**
 - **Technical Skills:**
-    - `TensorFlow`, `Keras`, `Scikit-Learn`, `Gensim`, `NLTK`, `Pytesseract`, `PyCaret`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`, `SciPy`, `BeautifulSoup`, `Git`, `GitHub`, Excel, PowerPoint
+    - **`TensorFlow`, `Keras`, `Scikit-Learn`, `Gensim`, `NLTK`, `Pytesseract`, `PyCaret`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`, `SciPy`, `BeautifulSoup`, `Git`, `GitHub`, Excel, PowerPoint**
 - **Familiar Tools:**
-    - `XGBoost`, `LightGBM`, `Streamlit`, `Flask`, `FastAPI`, `Docker`, `OpenCV`, `Plotly`, `bokeh`, `Selenium`
+    - **`XGBoost`, `LightGBM`, `Streamlit`, `Flask`, `FastAPI`, `Docker`, `OpenCV`, `Plotly`, `bokeh`, `Selenium`**
 
 * **
 
 ## **Work Experience**
 [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
 
-**Skills:** `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`
+**Skills: `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`**
 - Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying
 cyber risk to IoMT/IoT devices.
 - Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in
@@ -30,14 +30,14 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 ### **NLP Projects**
 - **Fake News Classification** | [GitHub](https://github.com/avr2002/Fake-News-Classification-using-RNN-and-LSTM/blob/main/notebooks/main_notebook-2.ipynb)
-    - **Technologies Used:**  `Python`, `TensorFlow`, `scikit-learn`, `nltk`, `langdetect`, `wordcloud`, `matplotlib`, `regex`, `numpy`, `pandas`
+    - **Technologies Used: `Python`, `TensorFlow`, `scikit-learn`, `nltk`, `langdetect`, `wordcloud`, `matplotlib`, `regex`, `numpy`, `pandas`**
     - Implemented an **LSTM Model** on [Kaggle Fake News Dataset](https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification) with over 70K news text data, with **97% accuracy**
     - Along with standard text pre-processing, langdetect library was used to identify & remove news in other languages(French, German, Arabic, etc.) giving better model performance.
     - For EDA, WordCloud, and plotting of bi-grams and tri-grams were used to identify the general words present in the corpus.
     - **LSTM Model** was build using **TensorFlow** along with pre-trained **GloVe Word Embeddings**.
 
 - **Topic Modeling Using RACE Dataset** | [GitHub](https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset)
-  - **Technologies Used:**  `Python`, `Regex`, `NLTK`, `Gensim`, `Scikit-Learn`, `tSNE`, `pyLDAvis`, `bokeh`, `Git`
+  - **Technologies Used:  `Python`, `Regex`, `NLTK`, `Gensim`, `Scikit-Learn`, `tSNE`, `pyLDAvis`, `bokeh`, `Git`**
   - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, thus trying to classify documents based on different themes they convey.
   - Three **Topic Modeling algorithms** were used namely, **Latent Semantic Analysis(LSA), Latent Dirichlet Allocation(LDA), and Non-Negative Matrix Factorization(NMF)**.
   - **BERTopic** & **Top2Vec** were also explored which gave quite good results.

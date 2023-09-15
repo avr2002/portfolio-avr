@@ -19,6 +19,8 @@
 - 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖:** **I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
 
 - ⭐ **Open to REMOTE Opportunities(both Internationally & within India)**
+
+- 💲 𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫
   
 * **
 ## **Work Experience**

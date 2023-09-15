@@ -14,7 +14,7 @@
 
 * **
 
-- 👁️ **Looking for full-time roles as a Machine Learning Engineer, preferably starting with an internship.**
+- 👁️ **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
   
 - 👁️ **I'm looking for a fun environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
 

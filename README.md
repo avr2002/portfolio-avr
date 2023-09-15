@@ -18,7 +18,7 @@
   
 - 👁️ **I'm looking for a fun environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
 
-- 👁️ Open to REMOTE Opportunities(both Internationally & within India)
+- 👁️ **Open to REMOTE Opportunities(both Internationally & within India)**
 * **
 ## **Work Experience**
 [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)

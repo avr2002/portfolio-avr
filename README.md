@@ -16,7 +16,7 @@
 
 - 👁️ **Looking for my first full-time role as a Machine Learning Engineer, preferably starting with an internship.**
   
-- 👁️ **I'm looking for a fun environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
+- 👁️ **Important To Me:** **I'm looking for a fun environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
 
 - 👁️ **Open to REMOTE Opportunities(both Internationally & within India)**
   

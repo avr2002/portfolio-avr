@@ -118,7 +118,12 @@ the pipeline is happening as expected. (Data Validator Tool)
 
 - 12th Std. CBSE Board([Percentage: 86.8%](https://drive.google.com/file/d/10N3ilh8IcbCXWZk8Ct2XRwW2SZ5KW0pN/view?usp=sharing)) | Star International School, Ranchi, JH | 2018-2020
 
+* **
+
+<html>
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="light" data-type="HORIZONTAL" data-vanity="avr27" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avr27?trk=profile-badge">Amit Vikram Raj</a>
 </div>
+</html>
+

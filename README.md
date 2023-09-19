@@ -121,7 +121,7 @@ the pipeline is happening as expected. (Data Validator Tool)
 * **
 
 <html>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="small" data-theme="light" data-type="HORIZONTAL" data-vanity="avr27" data-version="v1">
     <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avr27?trk=profile-badge">Amit Vikram Raj</a>
 </div>

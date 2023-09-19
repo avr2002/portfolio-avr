@@ -30,9 +30,8 @@
  
 - 😃 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐢𝐟 𝐲𝐨𝐮 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠. 𝐈'𝐦 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐚𝐧𝐲 𝐜𝐚𝐫𝐞𝐞𝐫-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐎𝐑 𝐨𝐭𝐡𝐞𝐫𝐰𝐢𝐬𝐞. 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 𝐨𝐧 [𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧](https://www.linkedin.com/in/avr27/), 𝐈'𝐦 𝐩𝐫𝐞𝐭𝐭𝐲 𝐚𝐜𝐭𝐢𝐯𝐞 𝐭𝐡𝐞𝐫𝐞🌼
 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="avr27" data-version="v1">
-    <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
     <a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avr27?trk=profile-badge">Amit Vikram Raj</a>
 </div>
 

@@ -34,7 +34,7 @@
 
 ## **Work Experience**
 
-[**SiviSoft**](https://www.linkedin.com/company/sivisoft/) | AI/ML Intern | (Aug 2023 – Present[Nov 2023])
+### [**SiviSoft**](https://www.linkedin.com/company/sivisoft/) | AI/ML Intern | (Aug 2023 – Present[Nov 2023])
 
 **Skills: `Python`, `Code Refactoring`, `Code Debugging`, `AWS CLI`, `AWS S3`, `NLP`, `Regex`, `pdfplumber`, `Jira`, `Elasticsearch`, `Elasticview`, `Team Coordination`, `Teamwork`**
 - Working with Medical PDF data(extracting patient data, scanned PDF data).
@@ -44,7 +44,7 @@
 
 * **
 
-[**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
+### [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
 
 **Skills: `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`**
 - Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying

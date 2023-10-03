@@ -56,7 +56,7 @@ cyber risk to IoMT/IoT devices.
 
 ## **Knowledge Repo**
 
-[**NLP with TensorFlow**](https://github.com/avr2002/NLP-with-Tensorflow)
+### [**NLP with TensorFlow**](https://github.com/avr2002/NLP-with-Tensorflow)
 - My Notes from the book Natural Language Processing with TensorFlow, 2nd-ed. by Thushan Ganegedara
 - Things I have become familiar with:
     - Word Embeddings; Sentence Classification(CNN);
@@ -64,7 +64,7 @@ cyber risk to IoMT/IoT devices.
     - Seq2Seq Learning, Language Modelling, Neural Machine Translation(NMT)
     - Currently learning Transformers
 
-[**Machine Learning with PyTorch and Scikit-Learn**](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
+### [**Machine Learning with PyTorch and Scikit-Learn**](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
 - My Notes from Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka.
 - Things covered so far:
     - Perceptron, Gradient Descent

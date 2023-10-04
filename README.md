@@ -34,7 +34,7 @@
 
 ## **Work Experience**
 
-### [**SiviSoft**](https://www.linkedin.com/company/sivisoft/) | AI/ML Intern | (Aug 2023 – Present[Nov 2023])
+### **[SiviSoft](https://www.linkedin.com/company/sivisoft/)** | AI/ML Intern | (Aug 2023 – Present[Nov 2023])
 
 **Skills: `Python`, `Code Refactoring`, `Code Debugging`, `AWS CLI`, `AWS S3`, `NLP`, `Regex`, `pdfplumber`, `Jira`, `Elasticsearch`, `Elasticview`, `Team Coordination`, `Teamwork`**
 - Working with Medical PDF data(extracting patient data, scanned PDF data).
@@ -44,7 +44,7 @@
 
 * **
 
-### [**Culinda Inc.,**](https://www.linkedin.com/company/culinda/) | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
+### **[Culinda Inc.,](https://www.linkedin.com/company/culinda/)** | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
 
 **Skills: `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`**
 - Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying
@@ -56,7 +56,7 @@ cyber risk to IoMT/IoT devices.
 
 ## **Knowledge Repo**
 
-### [**NLP with TensorFlow**](https://github.com/avr2002/NLP-with-Tensorflow)
+### **[NLP with TensorFlow](https://github.com/avr2002/NLP-with-Tensorflow)**
 - My Notes from the book Natural Language Processing with TensorFlow, 2nd-ed. by Thushan Ganegedara
 - Things I have become familiar with:
     - Word Embeddings; Sentence Classification(CNN);
@@ -64,7 +64,7 @@ cyber risk to IoMT/IoT devices.
     - Seq2Seq Learning, Language Modelling, Neural Machine Translation(NMT)
     - Currently learning Transformers
 
-### [**Machine Learning with PyTorch and Scikit-Learn**](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)
+### **[Machine Learning with PyTorch and Scikit-Learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)**
 - My Notes from Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka.
 - Things covered so far:
     - Perceptron, Gradient Descent
@@ -75,6 +75,14 @@ cyber risk to IoMT/IoT devices.
     - Ensemble Learning: Bagging, Boosting
     - Sentiment Analysis, Topic Modelling
 
+### **[Deep Learning with TensorFlow and Keras](https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/)**
+- My Notes from the book Deep Learning with TensorFlow and Keras, 3rd Edition
+- Will cover selective topics from this book
+
+### **[Machine Learning using Python](https://github.com/avr2002/mL)**
+- Notes from Machine Learning using Python by Manaranjan Pradhan, U Dinesh Kumar
+- This was the very first ML book I read.
+  
 * **
 
 ## **Projects**

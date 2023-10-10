@@ -34,13 +34,14 @@
 
 ## **Work Experience**
 
-### **[SiviSoft](https://www.linkedin.com/company/sivisoft/)** | AI/ML Intern | (Aug 2023 – Present[Nov 2023])
+### **[SiviSoft](https://www.linkedin.com/company/sivisoft/)** | AI/ML Intern | (Sept 2023 – Oct 2023)
 
 **Skills: `Python`, `Code Refactoring`, `Code Debugging`, `AWS CLI`, `AWS S3`, `NLP`, `Regex`, `pdfplumber`, `Jira`, `Elasticsearch`, `Elasticview`, `Team Coordination`, `Teamwork`**
 - Working with Medical PDF data(extracting patient data, scanned PDF data).
 - Using Python and NLP; as of now, mostly working with Python.
 - **Have done lots of Code Debugging and Code Refactoring.**
 - **Helping other interns/contract-based employees with their Jira tickets and setting up their environment.**
+- Worked for a little over 5 weeks, left due to mental health reasons and work culture.
 
 * **
 

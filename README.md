@@ -34,6 +34,15 @@
 
 ## **Work Experience**
 
+### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | Data Science Intern | (Sept 2023 – Oct 2023)
+
+**Skills: `Python`, `Web Scraping`, `Web Crawling`, `Beautiful Soup`, `AWS Lambda` `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`, `Team Coordination`, `Teamwork`,  `Notion`**
+- Building an Efficient Web Crawling and Scraping Pipeline to scrape thousands of financial blogs.
+- Working in a fast-paced startup environment.
+
+* **
+
+
 ### **[SiviSoft](https://www.linkedin.com/company/sivisoft/)** | AI/ML Intern | (Sept 2023 – Oct 2023)
 
 **Skills: `Python`, `Code Refactoring`, `Code Debugging`, `AWS CLI`, `AWS S3`, `NLP`, `Regex`, `pdfplumber`, `Jira`, `Elasticsearch`, `Elasticview`, `Team Coordination`, `Teamwork`**

@@ -54,7 +54,7 @@
 
 * **
 
-### **[Culinda Inc.,](https://www.linkedin.com/company/culinda/)** | Data Science Intern [*Certificate*](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
+### **[Culinda Inc.,](https://www.linkedin.com/company/culinda/)** | [Data Science Intern](https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view) | (Aug 2022 – Jan 2023)
 
 **Skills: `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`**
 - Created a POC using Python on Cyber risk quantification using FAIR, STRIDE Model for quantifying

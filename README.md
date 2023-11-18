@@ -70,14 +70,14 @@ cyber risk to IoMT/IoT devices.
 - My Notes from the book Natural Language Processing with TensorFlow, 2nd-ed. by Thushan Ganegedara
 - Things I have become familiar with:
     - Word Embeddings;
-    - [**Sentence Classification(CNN)**](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb);
+    - **[Sentence Classification using CNN](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb)**
     - RNNs, LSTMs, GRUs;
-        - [**NER with RNNs**](https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs)
+        - **[NER with RNNs](https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs)**
     - Seq2Seq Learning, Language Modelling, Neural Machine Translation(NMT)
-        - [**Neural Machine Translation: English to German**](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb)
-        - [**Language Modelling: Generating Text using LSTMs**](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb)
+        - **[Neural Machine Translation: English to German](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb)**
+        - **[Language Modelling: Generating Text using LSTMs](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb)**
     - Currently learning Transformers:
-        - [**QnA with BERT using HuggingFace**](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb)
+        - **[QnA with BERT using HuggingFace](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb)**
 
 ### **[Machine Learning with PyTorch and Scikit-Learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)**
 - My Notes from Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka.

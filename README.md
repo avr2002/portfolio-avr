@@ -37,7 +37,9 @@
 ### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | **Data Science Intern** | **(Oct 2023 – Present)**
 
 **Skills: `Python`, `Web Scraping`, `Web Crawling`, `Beautiful Soup`, `AWS Lambda`, `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`, `Team Coordination`, `Teamwork`,  `Notion`**
-- Building an Efficient Web Crawling and Scraping Pipeline to scrape thousands of financial blogs, using AWS Services.
+- Built an efficient Web Crawling and Scraping Pipeline in a scalable fashion to scrape 20+ finance news sources, reducing the scraping time from 3 days to 4 hours.
+- Implemented a serverless solution using AWS Lambda, SQS, Document DB, and S3, optimizing efficiency and scalability in the scraping pipeline.
+- Built a dashboard to keep track of Scraping Pipeline using Appsmith, fetching data from MongoDB, AWS Cloudwatch, and AWS SQS.
 - Working in a fast-paced startup environment.
 
 * **

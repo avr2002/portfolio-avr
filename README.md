@@ -6,7 +6,8 @@
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
 ## **Skills**
-- **Programming Skills: `Python`, `SQL`, `LaTex`**
+- **Programming Skills: `Python`, `LaTex`**
+- **Database: `SQL`, `MongoDB`**
 - **Technical Skills:**
     - **`TensorFlow`, `Keras`, `Scikit-Learn`, `Gensim`, `NLTK`, `Pytesseract`, `PyCaret`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`, `SciPy`, `BeautifulSoup`, `Git`, `GitHub`, Excel, PowerPoint**
 - **Familiar Tools:**

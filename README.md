@@ -1,6 +1,6 @@
 # **Machine Learning Engineer**
 
-#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing"><b>Download Resume</b></a> | [LinkedIn](https://www.linkedin.com/in/avr27/) | [GitHub](https://github.com/avr2002) | [GitLab](https://gitlab.com/avr27) | avr13405@gmail.com
+#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing"><b>Resume.pdf</b></a> | [LinkedIn](https://www.linkedin.com/in/avr27/) | [GitHub](https://github.com/avr2002) | [GitLab](https://gitlab.com/avr27) | avr13405@gmail.com
 
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
@@ -38,6 +38,7 @@
 ### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | **Data Science Intern** | **(Oct 2023 – Present)**
 
 **Skills: `Python`, `Web Scraping`, `Web Crawling`, `Beautiful Soup`, `AWS Lambda`, `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`, `Team Coordination`, `Teamwork`,  `Notion`**
+- Built an internal Python utility library, centralizing the reused code in the ML codebase, thereby reducing code duplication and streamlining the whole codebase. Implemented SSH tunneling into EC2 and locally connect to DocumentDB, performing faster local testing.
 - Built an efficient Web Crawling and Scraping Pipeline in a scalable fashion to scrape 20+ finance news sources, reducing the scraping time from 3 days to 4 hours.
 - Implemented a serverless solution using AWS Lambda, SQS, Document DB, and S3, optimizing efficiency and scalability in the scraping pipeline.
 - Built a dashboard to keep track of Scraping Pipeline using Appsmith, fetching data from MongoDB, AWS Cloudwatch, and AWS SQS.

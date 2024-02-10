@@ -36,7 +36,7 @@
 
 ## **Work Experience**
 
-### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | **Data Science Intern** | **(Oct 2023 – Present)**
+### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | **Data Science Intern** | **(Oct 2023 – Feb 2024)**
 
 **Skills: `Python`, `Web Scraping`, `Web Crawling`, `Beautiful Soup`, `AWS Lambda`, `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`, `Team Coordination`, `Teamwork`,  `Notion`**
 - Built an internal Python utility library, centralizing the reused code in the ML codebase, thereby reducing code duplication and streamlining the whole codebase. Implemented SSH tunneling into EC2 and locally connect to DocumentDB, performing faster local testing.

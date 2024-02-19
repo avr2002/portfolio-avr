@@ -1,7 +1,6 @@
 # **Machine Learning Engineer**
 
-#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing"><b>Resume.pdf</b></a> | [LinkedIn](https://www.linkedin.com/in/avr27/) | [GitHub](https://github.com/avr2002) | [GitLab](https://gitlab.com/avr27) | avr13405@gmail.com
-
+#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> | avr13405@gmail.com
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
@@ -15,22 +14,22 @@
 
 * **
 ## **About Me**
+ 
+<!--- - 💲 **𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫**😁 --->
 
-- 👀 **𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩.**
+<!--- - 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 --->
  
-- 👉🏼 **ℙ𝕣𝕚𝕠𝕣𝕚𝕥𝕪 𝔽𝕠𝕣 𝕄𝕖:** **I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.**
+- 📖 **I'm interested in NLP & ML Engineering. And Looking forward to building my career there. I document my learning on GitHub and share it with the LinkedIn AI Community.**
  
-- ⭐ **𝐎𝐩𝐞𝐧 𝐭𝐨 𝐑𝐄𝐌𝐎𝐓𝐄 𝐎𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 (𝐛𝐨𝐭𝐡 𝐈𝐧𝐭𝐞𝐫𝐧𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐥𝐲 & 𝐰𝐢𝐭𝐡𝐢𝐧 𝐈𝐧𝐝𝐢𝐚)**
- 
-- 💲 **𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫**😁
+- 🕵🏼‍♂️ Besides my studies, I'm interested in learning about myself from a spiritual & psychological perspective.
 
-- 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲
- 
-- 📖 𝐈'𝐦 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐮𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞𝐝 𝐝𝐚𝐭𝐚(𝐢𝐧 𝐍𝐋𝐏 & 𝐂𝐕) 𝐚𝐧𝐝 𝐥𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫𝐰𝐚𝐫𝐝 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐦𝐲 𝐜𝐚𝐫𝐞𝐞𝐫 𝐭𝐡𝐞𝐫𝐞.
- 
-- 🕵🏼‍♂️ 𝐁𝐞𝐬𝐢𝐝𝐞𝐬 𝐦𝐲 𝐬𝐭𝐮𝐝𝐢𝐞𝐬, 𝐈 𝐚𝐦 𝐯𝐞𝐫𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐞𝐝 𝐢𝐧 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐚𝐛𝐨𝐮𝐭 𝐦𝐲𝐬𝐞𝐥𝐟 𝐟𝐫𝐨𝐦 𝐚 𝐬𝐩𝐢𝐫𝐢𝐭𝐮𝐚𝐥 𝐚𝐧𝐝 𝐩𝐬𝐲𝐜𝐡𝐨𝐥𝐨𝐠𝐢𝐜𝐚𝐥 𝐩𝐞𝐫𝐬𝐩𝐞𝐜𝐭𝐢𝐯𝐞.
- 
-- 😃 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐦𝐞 𝐢𝐟 𝐲𝐨𝐮 𝐟𝐢𝐧𝐝 𝐦𝐞 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠. 𝐈'𝐦 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐚𝐧𝐲 𝐜𝐚𝐫𝐞𝐞𝐫-𝐫𝐞𝐥𝐚𝐭𝐞𝐝 𝐨𝐩𝐩𝐨𝐫𝐭𝐮𝐧𝐢𝐭𝐢𝐞𝐬 𝐎𝐑 𝐨𝐭𝐡𝐞𝐫𝐰𝐢𝐬𝐞. 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞 𝐨𝐧 [𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧](https://www.linkedin.com/in/avr27/), 𝐈'𝐦 𝐩𝐫𝐞𝐭𝐭𝐲 𝐚𝐜𝐭𝐢𝐯𝐞 𝐭𝐡𝐞𝐫𝐞🌼
+- 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩.
+  
+- 👉🏼 **Priority For Me:** I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
+
+- ⭐ **Open to Remote Opportunities (both Internationally & within India)**
+
+- 😃 Contact me if you find me interesting. I'm active on [LinkedIn](https://www.linkedin.com/in/avr27/)🌼
 
 * **
 
@@ -43,7 +42,7 @@
 - Built an efficient Web Crawling and Scraping Pipeline in a scalable fashion to scrape 20+ finance news sources, reducing the scraping time from 3 days to 4 hours.
 - Implemented a serverless solution using AWS Lambda, SQS, Document DB, and S3, optimizing efficiency and scalability in the scraping pipeline.
 - Built a dashboard to keep track of Scraping Pipeline using Appsmith, fetching data from MongoDB, AWS Cloudwatch, and AWS SQS.
-- Working in a fast-paced startup environment.
+- Worked in a fast-paced startup environment.
 
 * **
 

@@ -1,11 +1,11 @@
 # **Machine Learning Engineer**
 
-#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://twitter.com/avr_027" target="_blank"><b>Twitter</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> | avr13405@gmail.com
+#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://twitter.com/avr_027" target="_blank"><b>Twitter</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> | <a href="https://bento.me/avr27" target="_blank"><b>Bento.me</b></a> | avr13405@gmail.com
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
 ## **Skills**
-- **Programming Skills: `Python`, `LaTex`**
+- **Programming Skills: `Python`, `bash`, `LaTex`**
 - **Database: `SQL`, `MongoDB`**
 - **Technical Skills:**
     - **`TensorFlow`, `Keras`, `Scikit-Learn`, `Gensim`, `NLTK`, `Pytesseract`, `PyCaret`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Regex`, `SciPy`, `BeautifulSoup`, `Git`, `GitHub`, Excel, PowerPoint**

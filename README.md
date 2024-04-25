@@ -65,42 +65,6 @@
 cyber risk to IoMT/IoT devices.
 - Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in the pipeline was happening as expected. (Data Validator Tool)
 - Worked in Baselining for hospitals' network data to identify any malicious behavior.
-
-* **
-
-## **Knowledge Repo**
-
-### **[NLP with TensorFlow](https://github.com/avr2002/NLP-with-Tensorflow)**
-- My Notes from the book Natural Language Processing with TensorFlow, 2nd-ed. by Thushan Ganegedara
-- Things I have become familiar with:
-    - Word Embeddings;
-    - **[Project: Sentence Classification using CNN](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb)**
-    - RNNs, LSTMs, GRUs;
-        - **[Project: NER with RNNs](https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs)**
-    - Seq2Seq Learning, Language Modelling, Neural Machine Translation(NMT)
-        - **[Project: Neural Machine Translation: English to German](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb)**
-        - **[Project: Language Modelling: Generating Text using LSTMs](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb)**
-    - Currently learning Transformers:
-        - **[Project: QnA with BERT using HuggingFace](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb)**
-
-### **[Machine Learning with PyTorch and Scikit-Learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)**
-- My Notes from Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka.
-- Things covered so far:
-    - Perceptron, Gradient Descent
-    - Logistic Regression, Decision Tree, SVM, KNN
-    - Feature Selection, Regularization(L1 & L2)
-    - Dimensionality Reduction: PCA, LDA
-    - Model Evaluation & HyperParameter Tuning
-    - Ensemble Learning: Bagging, Boosting
-    - Sentiment Analysis, Topic Modelling
-
-### **[Deep Learning with TensorFlow and Keras](https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/)**
-- My Notes from the book Deep Learning with TensorFlow and Keras, 3rd Edition
-- Will cover selective topics from this book
-
-### **[Machine Learning using Python](https://github.com/avr2002/mL)**
-- Notes from Machine Learning using Python by Manaranjan Pradhan, U Dinesh Kumar
-- This was the very first ML book I read.
   
 * **
 
@@ -175,6 +139,43 @@ cyber risk to IoMT/IoT devices.
   
 - **Kaggle House Price Prediction** | [Link](https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project)
     - My very first Project.
+
+
+* **
+
+## **Knowledge Repo**
+
+### **[NLP with TensorFlow](https://github.com/avr2002/NLP-with-Tensorflow)**
+- My Notes from the book Natural Language Processing with TensorFlow, 2nd-ed. by Thushan Ganegedara
+- Things I have become familiar with:
+    - Word Embeddings;
+    - **[Project: Sentence Classification using CNN](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb)**
+    - RNNs, LSTMs, GRUs;
+        - **[Project: NER with RNNs](https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs)**
+    - Seq2Seq Learning, Language Modelling, Neural Machine Translation(NMT)
+        - **[Project: Neural Machine Translation: English to German](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb)**
+        - **[Project: Language Modelling: Generating Text using LSTMs](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb)**
+    - Currently learning Transformers:
+        - **[Project: QnA with BERT using HuggingFace](https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb)**
+
+### **[Machine Learning with PyTorch and Scikit-Learn](https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn)**
+- My Notes from Machine Learning with PyTorch and Scikit-Learn by Sebastian Raschka.
+- Things covered so far:
+    - Perceptron, Gradient Descent
+    - Logistic Regression, Decision Tree, SVM, KNN
+    - Feature Selection, Regularization(L1 & L2)
+    - Dimensionality Reduction: PCA, LDA
+    - Model Evaluation & HyperParameter Tuning
+    - Ensemble Learning: Bagging, Boosting
+    - Sentiment Analysis, Topic Modelling
+
+### **[Deep Learning with TensorFlow and Keras](https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/)**
+- My Notes from the book Deep Learning with TensorFlow and Keras, 3rd Edition
+- Will cover selective topics from this book
+
+### **[Machine Learning using Python](https://github.com/avr2002/mL)**
+- Notes from Machine Learning using Python by Manaranjan Pradhan, U Dinesh Kumar
+- This was the very first ML book I read.
 
 * **
 

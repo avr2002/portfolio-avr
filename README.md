@@ -143,6 +143,11 @@ cyber risk to IoMT/IoT devices.
 
 ### **Machine Learning & Python Projects** 
 
+- **Basic Library Management System API** | [GitHub](https://github.com/avr2002/backend-library-management-sys)
+  - **Technologies Used: `Python, FastAPI, Pydantic, MongoDB, Docker, GCP`**
+  - This project implements a RESTful API for a Library Management System using FastAPI with MongoDB Atlas as the database, deployed as a Docker image on GCP.
+ 
+
 - **Business License Status Prediction** | [GitHub](https://github.com/avr2002/Business-License-Status-Prediction)
   - **Technologies Used: `Python, scikit-learn, h2o, tensorflow, flask, gunicorn`**
   - The project aims to predict if a customer's license should be issued, renewed, or cancelled depending on features in the dataset. The problem statement was presented at [ZS Data Science Challenge - 2019](https://www.interviewbit.com/contest/zs-yds-2019/).

@@ -35,6 +35,15 @@
 
 ## **Work Experience**
 
+### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – Present)**
+
+**Skills: `Python`, `Optuna`**
+- Black Box Optimisation using Optuna
+
+* **
+
+
+
 ### **[Wint Wealth](https://in.linkedin.com/company/wintwealth)** | **Data Science Intern** | **(Oct 2023 – Feb 2024)**
 
 **Skills: `Python`, `Web Scraping`, `Web Crawling`, `Beautiful Soup`, `AWS Lambda`, `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`, `Team Coordination`, `Teamwork`,  `Notion`**

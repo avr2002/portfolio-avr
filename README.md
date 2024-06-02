@@ -1,6 +1,6 @@
 # **Machine Learning Engineer**
 
-#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://twitter.com/avr_027" target="_blank"><b>Twitter</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> | <a href="https://www.instagram.com/amitvikram.raj/" target="_blank"><b>Instagram</b></a> | <a href="https://bento.me/avr27" target="_blank"><b>Bento.me</b></a> | avr13405@gmail.com
+#### <a href="https://drive.google.com/file/d/1zpNgb3KVRpqg2IF36u_Jt6fm0GnifRUc/view?usp=sharing" target="_blank"><b>Resume.pdf</b></a> | <a href="https://www.linkedin.com/in/avr27/" target="_blank"><b>LinkedIn</b></a> | <a href="https://twitter.com/avr_027" target="_blank"><b>Twitter</b></a> | <a href="https://github.com/avr2002" target="_blank"><b>GitHub</b></a> | <a href="https://gitlab.com/avr27" target="_blank"><b>GitLab</b></a> | <a href="https://bento.me/avr27" target="_blank"><b>Bento.me</b></a> | avr13405@gmail.com
 
 **![](https://komarev.com/ghpvc/?username=avr2002&label=PROFILE+VIEWS)**
 
@@ -13,32 +13,15 @@
     - **`XGBoost`, `LightGBM`, `Streamlit`, `Flask`, `FastAPI`, `Docker`, `OpenCV`, `Plotly`, `bokeh`, `Selenium`**
 
 * **
-## **About Me**
- 
-<!--- - 💲 **𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫**😁 --->
-
-<!--- - 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 --->
- 
-- 📖 **I'm interested in NLP & ML Engineering. And Looking forward to building my career there. I document my learning on GitHub and share it with the LinkedIn AI Community.**
- 
-- 🕵🏼‍♂️ Besides my studies, I'm interested in learning about myself from a spiritual & psychological perspective.
-
-- 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩.
-  
-- 👉🏼 **Priority For Me:** I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
-
-- ⭐ **Open to Remote Opportunities (both Internationally & within India)**
-
-- 😃 Contact me if you find me interesting. I'm active on [LinkedIn](https://www.linkedin.com/in/avr27/)🌼
-
-* **
 
 ## **Work Experience**
 
 ### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – Present)**
 
-**Skills: `Python`, `Optuna`**
-- Black Box Optimisation using Optuna
+**Skills: `Python`, `Pandas`, `Numpy`, `pwlf`, `Optuna`**
+- Feature extraction using **Piecewise Linear Fit algorithm and B-splines Interpolation**.
+- Built an efficient Data Analysis and Data Processing Pipeline.
+- Wrote fast, efficient, and manageable code by packaging the code and following official Python PEP8 style guides.
 
 * **
 
@@ -75,6 +58,17 @@ cyber risk to IoMT/IoT devices.
 - Wrote Python scripts that analyzed Terabytes of data to generate (text & excel) reports that checked if the data flow in the pipeline was happening as expected. (Data Validator Tool)
 - Worked in Baselining for hospitals' network data to identify any malicious behavior.
   
+* **
+
+## **Articles**
+- **2024**
+    - [How to SSH Tunnel into AWS EC2 and connect to DocumentDB using Python?](https://www.linkedin.com/pulse/how-ssh-tunnel-aws-ec2-connect-documentdb-using-amit-vikram-raj-btqxf/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+- **2023**
+    - [Layer Normalization](https://www.linkedin.com/pulse/layer-normalization-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+    - [Bahdanau Attention Mechanism](https://www.linkedin.com/pulse/bahdanau-attention-mechanism-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+    - [NMT Architecture](https://www.linkedin.com/pulse/nmt-architecture-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+    - [Improving Predictions in Language Modelling](https://www.linkedin.com/pulse/improving-predictions-language-modelling-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+
 * **
 
 ## **Projects**
@@ -185,6 +179,25 @@ cyber risk to IoMT/IoT devices.
 ### **[Machine Learning using Python](https://github.com/avr2002/mL)**
 - Notes from Machine Learning using Python by Manaranjan Pradhan, U Dinesh Kumar
 - This was the very first ML book I read.
+
+* **
+## **About Me**
+ 
+<!--- - 💲 **𝐀 𝐠𝐨𝐨𝐝 𝐬𝐭𝐢𝐩𝐞𝐧𝐝/𝐛𝐚𝐬𝐞-𝐩𝐚𝐲 𝐢𝐬 𝐚𝐥𝐰𝐚𝐲𝐬 𝐚𝐩𝐩𝐫𝐞𝐜𝐢𝐚𝐭𝐞𝐝 𝐚𝐧𝐝 𝐦𝐨𝐭𝐢𝐯𝐚𝐭𝐢𝐧𝐠 𝐭𝐨 𝐩𝐞𝐫𝐟𝐨𝐫𝐦 𝐛𝐞𝐭𝐭𝐞𝐫**😁 --->
+
+<!--- - 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 --->
+ 
+- 📖 **I'm interested in NLP & ML Engineering. And Looking forward to building my career there. I document my learning on GitHub and share it with the LinkedIn AI Community.**
+ 
+- 🕵🏼‍♂️ Besides my studies, I'm interested in learning about myself from a spiritual & psychological perspective.
+
+- 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩.
+  
+- 👉🏼 **Priority For Me:** I'm looking for a fun work environment, especially a mentor under whom I can work and learn a lot of stuff, one who is willing to commit to me just as I will, and one who sees my potential.
+
+- ⭐ **Open to Remote Opportunities (both Internationally & within India)**
+
+- 😃 Contact me if you find me interesting. I'm active on [LinkedIn](https://www.linkedin.com/in/avr27/)🌼
 
 * **
 

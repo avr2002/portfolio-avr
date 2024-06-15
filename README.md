@@ -110,6 +110,12 @@ cyber risk to IoMT/IoT devices.
 
 ### **Machine Learning & Python Projects** 
 
+- **Python Cookiecutter Project Template** | [GitHub](https://github.com/avr2002/python-cookiecutter-template)
+    - **Technologies Used: `Python, Cookiecutter, Pytest, GitHub Actions, CI/CD, GitHub CLI, Bash, SetupTools, Linters, Pre-Commit`**
+    - Developed a customizable template using **Cookiecutter, GitHub CLI, and GitHub Actions** to automate the creation of Python project repositories, including setup for linting, testing, CI/CD, and secrets management.
+    - Implemented comprehensive GitHub Actions workflows for **continuous integration(CI) and continuous delivery(CD)**, ensuring consistent code quality and automated testing.
+    - Integrated modern development tools and best practices such as VS Code settings, `pyproject.toml` configuration, and a suite of linting tools (`flake8`, `black`, `mypy`, etc.) to enhance developer productivity and maintain code quality.
+
 - **Basic Library Management System API** | [GitHub](https://github.com/avr2002/backend-library-management-sys)
   - **Technologies Used: `Python, FastAPI, Pydantic, MongoDB, Docker, GCP`**
   - This project implements a RESTful API for a Library Management System using FastAPI with MongoDB Atlas as the database, deployed as a Docker image on GCP.

@@ -17,11 +17,15 @@
 
 ## **Work Experience**
 
-### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – Present)**
+### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – July 2024)**
 
-**Skills: `Python`, `Pandas`, `Numpy`, `pwlf`, `Optuna`**
-- Feature extraction using **Piecewise Linear Fit algorithm and B-splines Interpolation**.
-- Built an efficient Data Analysis and Data Processing Pipeline.
+**Skills: `Python`, `Pandas`, `Numpy`, `pwlf`, `SciPy`**
+- Used interpolation method to generate synthetic data; used DBSCAN & Hierarchical Clustering algorithms along with PCA to group data.
+
+- Used **Piecewise Linear Fit algorithm(pwlf)** and **B-splines Interpolation** to enhance the accuracy of feature extraction processes.
+
+- Built a comprehensive data analysis, visualization, and processing pipeline, automating previously manual tasks and improving efficiency.
+
 - Wrote fast, efficient, and manageable code by packaging the code and following official Python PEP8 style guides.
 
 * **

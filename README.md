@@ -17,7 +17,7 @@
 
 ## **Work Experience**
 
-### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – July 2024)**
+### **[SyncMOF](https://syncmof.com/en/)** | **Backend Engineer Intern** | **(May 2024 – August 2024)**
 
 **Skills: `Python`, `Pandas`, `Numpy`, `pwlf`, `SciPy`, `scikit-learn`**
 - Used interpolation method to generate synthetic data; used **DBSCAN & Hierarchical Clustering algorithms** along with **Principal Component Analysis(PCA)** to group data.

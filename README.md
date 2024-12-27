@@ -129,7 +129,6 @@
           <li>Integrated modern development tools and best practices such as VS Code settings, <code>pyproject.toml</code> configuration, and a suite of linting tools (<code>flake8</code>, <code>black</code>, <code>mypy</code>, etc.) to maintain code quality.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Basic Library Management System API</strong> | <a href="https://github.com/avr2002/backend-library-management-sys" target="_blank">GitHub</a>
         <ul>
@@ -156,7 +155,6 @@
           <li>The <strong>LSTM Model</strong> was built using <strong>TensorFlow</strong> along with pre-trained <strong>GloVe Word Embeddings</strong>.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Topic Modeling Using RACE Dataset</strong> | <a href="https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset" target="_blank">GitHub</a>
         <ul>
@@ -166,7 +164,6 @@
           <li><strong>BERTopic</strong> & <strong>Top2Vec</strong> were also explored, yielding strong results.</li>
         </ul>
       </li>
-      <br>  
       <li>
         <strong>Medical Embeddings and Clinical Trial Search Engine</strong> | <a href="https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine" target="_blank">GitHub</a>
         <ul>
@@ -191,7 +188,6 @@
           <li>Although the results weren't that great🥲</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Multi-class Image Classification Model</strong> | <a href="https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction" target="_blank">GitHub</a>
         <ul>
@@ -217,7 +213,6 @@
           <li>The problem statement was presented at <a href="https://www.interviewbit.com/contest/zs-yds-2019/" target="_blank">ZS Data Science Challenge - 2019</a>.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Medical Data Extraction Project</strong> | <a href="https://github.com/avr2002/medical-data-extraction-project" target="_blank">GitHub</a>
         <ul>
@@ -227,7 +222,6 @@
           <li>Image processing was performed in <strong>OpenCV</strong>, followed by image-to-text conversion using <strong>Pytesseract</strong>, and then Regex for extracting key fields.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>SQL Project: Provide Insights to Management in Consumer Goods Domain</strong>
         <ul>
@@ -235,7 +229,6 @@
           <li><a href="https://github.com/avr2002/sql-project-consumer-goods-domain" target="_blank">Project GitHub Link</a> & <a href="https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link" target="_blank">Certificate of Participation</a></li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Credit Card Default Prediction</strong> | <a href="https://github.com/avr2002/credit-card-default-prediction" target="_blank">GitHub</a>
         <ul>
@@ -243,7 +236,6 @@
           <li>Implemented models including Logistic Regression, Random Forest, XGBoost, LightGBM, and a vanilla Neural Network.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Regression Models for House Price Prediction</strong> | <a href="https://github.com/avr2002/Regression-Models-for-House-Price-Prediction" target="_blank">GitHub</a>
         <ul>
@@ -251,7 +243,6 @@
           <li>Also implemented a multi-layer perceptron (MLP) using TensorFlow.</li>
         </ul>
       </li>
-      <br>
       <li>
         <strong>Kaggle House Price Prediction</strong> | <a href="https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project" target="_blank">Link</a>
         <ul>

@@ -15,6 +15,7 @@
 - **Familiar:**
     - `XGBoost`, `LightGBM`, `Streamlit`, `Flask`, `OpenCV`, `SciPy`, `Plotly`, `bokeh`, `Selenium`
 
+* **
 
 ## **About Me**
  
@@ -33,6 +34,7 @@
 <!-- - 🅰️🅸 𝐈 𝐝𝐨𝐜𝐮𝐦𝐞𝐧𝐭 𝐦𝐲 𝐀𝐈 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠𝐬 𝐨𝐧 𝐆𝐢𝐭𝐇𝐮𝐛 𝐚𝐧𝐝 𝐬𝐡𝐚𝐫𝐞 𝐡𝐞𝐫𝐞 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 𝐀𝐈 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 -->
 <!-- - 👀 𝐋𝐨𝐨𝐤𝐢𝐧𝐠 𝐟𝐨𝐫 𝐦𝐲 𝐟𝐢𝐫𝐬𝐭 𝐟𝐮𝐥𝐥-𝐭𝐢𝐦𝐞 𝐫𝐨𝐥𝐞 𝐚𝐬 𝐚 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫, 𝐩𝐫𝐞𝐟𝐞𝐫𝐚𝐛𝐥𝐲 𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩. -->
 
+* **
 
 ## **Work Experience**
 
@@ -55,17 +57,20 @@
 
 </details>
 
+
 <details>
   <summary><h3><a href="https://in.linkedin.com/company/wintwealth" target="_blank">Wint Wealth</a> | <strong>Data Science Intern</strong> | <strong>Oct 2023 – Feb 2024</strong></h3></summary>
-  
-  **Skills:** `Python`, `Web Scraping`, `Beautiful Soup`, `AWS Lambda`, `AWS Simple Queue Service`, `AWS S3`, `Cron`, `Regex`, `Code Refactoring`
-  - Built an internal Python utility library, centralizing the reused code in the ML codebase, thereby reducing code duplication and streamlining the whole codebase.
-  - Implemented **SSH tunneling** into EC2 and locally connected to DocumentDB, performing faster local testing.
-  - Built an efficient Web Crawling and Scraping Pipeline in a scalable fashion to scrape 20+ finance news sources, reducing the scraping time from 3 days to 4 hours.
-  - Implemented a **serverless** solution using **AWS Lambda, SQS, DocumentDB, and S3**, optimizing efficiency and scalability in the scraping pipeline.
-  - Built a dashboard to keep track of the Scraping Pipeline using **Appsmith**, fetching data from **MongoDB, AWS CloudWatch, and AWS SQS**.
-  - Worked in a fast-paced startup environment.
-
+  <div>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Web Scraping</code>, <code>Beautiful Soup</code>, <code>AWS Lambda</code>, <code>AWS Simple Queue Service</code>, <code>AWS S3</code>, <code>Cron</code>, <code>Regex</code>, <code>Code Refactoring</code></p>
+    <ul>
+      <li>Built an internal Python utility library, centralizing the reused code in the ML codebase, thereby reducing code duplication and streamlining the whole codebase.</li>
+      <li>Implemented <strong>SSH tunneling</strong> into EC2 and locally connected to DocumentDB, performing faster local testing.</li>
+      <li>Built an efficient Web Crawling and Scraping Pipeline in a scalable fashion to scrape 20+ finance news sources, reducing the scraping time from 3 days to 4 hours.</li>
+      <li>Implemented a <strong>serverless</strong> solution using <strong>AWS Lambda, SQS, DocumentDB, and S3</strong>, optimizing efficiency and scalability in the scraping pipeline.</li>
+      <li>Built a dashboard to keep track of the Scraping Pipeline using <strong>Appsmith</strong>, fetching data from <strong>MongoDB, AWS CloudWatch, and AWS SQS</strong>.</li>
+      <li>Worked in a fast-paced startup environment.</li>
+    </ul>
+  </div>
 </details>
 
 <details>
@@ -90,6 +95,7 @@
 
 </details>
 
+* **
 
 ## **Articles**
 - **2024**
@@ -100,6 +106,7 @@
     - [NMT Architecture](https://www.linkedin.com/pulse/nmt-architecture-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
     - [Improving Predictions in Language Modelling](https://www.linkedin.com/pulse/improving-predictions-language-modelling-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
 
+* **
 
 ## **Projects**
 
@@ -186,6 +193,9 @@
 
 </details>
 
+
+* **
+
 <details>
   <summary><h2>Knowledge Repo</h2></summary>
   
@@ -222,6 +232,8 @@
   - This was the very first ML book I read.
 
 </details>
+
+* **
 
 ## **Education**
 - BS in Data Science & Application [(CGPA: 8.5)](<a href="https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing" target="_blank">Certificate</a>) | <a href="https://study.iitm.ac.in/ds/" target="_blank">IIT Madras</a> | 2021-2025(Expected)

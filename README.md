@@ -21,8 +21,8 @@
 
 ## **About Me**
  
-- 🎧 **I'm currently working on or want to learn about:**
-    - *Cloud Services*
+- 🎧 **I'm currently working on or plan to learn:**
+    - *Cloud Services: AWS*
     - *Deploying AI/ML Models to Production*
     - *Data Engineering - Databases, Warehouses, Lakes, and Pipelines for making data consumable*
     - *Backend Engineering in general* 

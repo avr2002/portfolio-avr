@@ -40,23 +40,26 @@
 
 <details>
   <summary><h3><a href="https://mlops-club.org/" target="_blank">MLOps Club</a> | <strong>Software Engineer</strong> | <strong>June 2024 - Present</strong></h3></summary>
-  
-  **Skills:** `Python`, `AWS`, `Observability & Monitoring`
-  - Helping to build a micro-degree to bring you from "Coder" → "Software Engineer" → "Cloud/DevOps Engineer" → "MLOps Engineer".
-
+  <div>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>AWS</code>, <code>Observability & Monitoring</code></p>
+    <ul>
+      <li>Helping to build a micro-degree to bring you from "Coder" → "Software Engineer" → "Cloud/DevOps Engineer" → "MLOps Engineer".</li>
+    </ul>
+  </div>
 </details>
 
 <details>
-  <summary><h3><a href="https://syncmof.com/en/" target="_blank">SyncMOF</a> | <strong>Backend Engineer Intern</strong> | <strong>May 2024 – September 2024</strong></h3></summary>
-  
-  **Skills:** `Python`, `Pandas`, `Numpy`, `pwlf`, `SciPy`, `scikit-learn`
-  - Used interpolation methods to generate synthetic data; used **DBSCAN & Hierarchical Clustering algorithms** along with **Principal Component Analysis (PCA)** to group data.
-  - Used **Piecewise Linear Fit algorithm (pwlf)** and **B-splines Interpolation** to enhance the accuracy of feature extraction processes.
-  - Built a comprehensive data analysis, visualization, and processing pipeline, automating previously manual Excel tasks, and improving efficiency.
-  - Wrote fast, efficient, and manageable code by packaging the code and following official Python PEP8 style guides.
-
+  <summary><h3><a href="https://syncmof.com/en/" target="_blank">SyncMOF</a> | <strong>Backend Engineer Intern</strong> | <strong>May 2024 – Sept. 2024</strong></h3></summary>
+  <div>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Pandas</code>, <code>Numpy</code>, <code>pwlf</code>, <code>SciPy</code>, <code>scikit-learn</code></p>
+    <ul>
+      <li>Used interpolation methods to generate synthetic data; utilized <strong>DBSCAN & Hierarchical Clustering algorithms</strong> along with <strong>Principal Component Analysis (PCA)</strong> to group data.</li>
+      <li>Applied the <strong>Piecewise Linear Fit algorithm (pwlf)</strong> and <strong>B-splines Interpolation</strong> to enhance the accuracy of feature extraction processes.</li>
+      <li>Built a comprehensive data analysis, visualization, and processing pipeline, automating previously manual Excel tasks and improving efficiency.</li>
+      <li>Wrote fast, efficient, and manageable code by packaging the code and adhering to official Python PEP8 style guides.</li>
+    </ul>
+  </div>
 </details>
-
 
 <details>
   <summary><h3><a href="https://in.linkedin.com/company/wintwealth" target="_blank">Wint Wealth</a> | <strong>Data Science Intern</strong> | <strong>Oct 2023 – Feb 2024</strong></h3></summary>
@@ -74,37 +77,40 @@
 </details>
 
 <details>
-  <summary><h3><a href="https://www.linkedin.com/company/sivisoft/" target="_blank">SiviSoft</a> | <strong>AI/ML Intern</strong> | <strong>Sept 2023 – Oct 2023</strong></h3></summary>
-  
-  **Skills:** `Python`, `Code Refactoring`, `Code Debugging`, `AWS CLI`, `AWS S3`, `Regex`, `pdfplumber`, `Jira`, `Elasticsearch`, `Elasticview`
-  - Working with Medical PDF data (extracting patient data, scanned PDF data).
-  - Using Python and NLP; primarily working with Python.
-  - **Performed extensive Code Debugging and Code Refactoring.**
-  - **Assisted other interns and new employees with their Jira tickets and environment setup.**
-  - Worked for a little over 5 weeks; left due to mental health reasons and work culture.
-
+  <summary><h3><a href="https://www.linkedin.com/company/sivisoft/" target="_blank">SiviSoft</a> | <strong>AI/ML Intern</strong> | <strong>Sept. 2023 – Oct 2023</strong></h3></summary>
+  <div>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>Code Refactoring</code>, <code>Code Debugging</code>, <code>AWS CLI</code>, <code>AWS S3</code>, <code>Regex</code>, <code>pdfplumber</code>, <code>Jira</code>, <code>Elasticsearch</code>, <code>Elasticview</code></p>
+    <ul>
+      <li>Worked with Medical PDF data, including extracting patient data and scanned PDF data.</li>
+      <li><strong>Performed extensive Code Debugging and Code Refactoring.</strong></li>
+      <li><strong>Assisted other interns and new employees with their Jira tickets and environment setup.</strong></li>
+      <li>Worked for a little over 5 weeks; left due to mental health reasons and work culture.</li>
+    </ul>
+  </div>
 </details>
 
 <details>
   <summary><h3><a href="https://www.linkedin.com/company/culinda/" target="_blank">Culinda Inc.</a> | <a href="https://drive.google.com/file/d/1lkHbWUoBcfODLShqTDxYzkQvCsg_myfo/view" target="_blank"><strong>Data Science Intern</strong></a> | <strong>Aug 2022 – Jan 2023</strong></h3></summary>
-  
-  **Skills:** `Python`, `CyberSecurity`, `Statistics`, `Data Analysis`, `Machine Learning`, `IoT/IoMT`
-  - Created a POC using Python on Cyber risk quantification using FAIR and STRIDE Models for quantifying cyber risk to IoMT/IoT devices.
-  - Wrote Python scripts that analyzed terabytes of data to generate (text & Excel) reports that checked if the data flow in the pipeline was happening as expected (Data Validator Tool).
-  - Worked on baselining hospitals' network data to identify any malicious behavior.
-
+  <div>
+    <p><strong>Skills:</strong> <code>Python</code>, <code>CyberSecurity</code>, <code>Statistics</code>, <code>Data Analysis</code>, <code>Machine Learning</code>, <code>IoT/IoMT</code></p>
+    <ul>
+      <li>Created a POC using Python on Cyber risk quantification using FAIR and STRIDE Models to quantify cyber risk to IoMT/IoT devices.</li>
+      <li>Wrote Python scripts that analyzed terabytes of data to generate text and Excel reports, ensuring the data flow in the pipeline was functioning as expected (Data Validator Tool).</li>
+      <li>Worked on baselining hospitals' network data to identify any malicious behavior.</li>
+    </ul>
+  </div>
 </details>
 
 * **
 
 ## **Articles**
 - **2024**
-    - [How to SSH Tunnel into AWS EC2 and connect to DocumentDB using Python?](https://www.linkedin.com/pulse/how-ssh-tunnel-aws-ec2-connect-documentdb-using-amit-vikram-raj-btqxf/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+    - <a href="https://www.linkedin.com/pulse/how-ssh-tunnel-aws-ec2-connect-documentdb-using-amit-vikram-raj-btqxf/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D" target="_blank">How to SSH Tunnel into AWS EC2 and connect to DocumentDB using Python?</a>
 - **2023**
-    - [Layer Normalization](https://www.linkedin.com/pulse/layer-normalization-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
-    - [Bahdanau Attention Mechanism](https://www.linkedin.com/pulse/bahdanau-attention-mechanism-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
-    - [NMT Architecture](https://www.linkedin.com/pulse/nmt-architecture-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
-    - [Improving Predictions in Language Modelling](https://www.linkedin.com/pulse/improving-predictions-language-modelling-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D)
+    - <a href="https://www.linkedin.com/pulse/layer-normalization-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D" target="_blank">Layer Normalization</a>
+    - <a href="https://www.linkedin.com/pulse/bahdanau-attention-mechanism-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D" target="_blank">Bahdanau Attention Mechanism</a>
+    - <a href="https://www.linkedin.com/pulse/nmt-architecture-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D" target="_blank">NMT Architecture</a>
+    - <a href="https://www.linkedin.com/pulse/improving-predictions-language-modelling-amit-vikram-raj/?trackingId=2uqzAqJ0TyKzRgX0V86ApQ%3D%3D" target="_blank">Improving Predictions in Language Modelling</a>
 
 * **
 
@@ -112,130 +118,220 @@
 
 <details>
   <summary><h3>Python Projects</h3></summary>
-  
-  - **Python Cookiecutter Project Template** | <a href="https://github.com/avr2002/python-cookiecutter-template" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `Cookiecutter`, `Pytest`, `GitHub Actions`, `CI/CD`, `GitHub CLI`, `Bash`, `setupTools`, `Linters`, `Pre-Commit`
-    - Developed a customizable template using **Cookiecutter**, **GitHub CLI**, and **GitHub Actions** to automate the creation of Python project repositories, including setup for linting, testing, CI/CD, and secrets management.
-    - Implemented comprehensive **GitHub Actions workflows** for **continuous integration (CI) and continuous delivery (CD)**, ensuring consistent code quality and automated testing.
-    - Integrated modern development tools and best practices such as VS Code settings, `pyproject.toml` configuration, and a suite of linting tools (`flake8`, `black`, `mypy`, etc.) to maintain code quality.
-
-  - **Basic Library Management System API** | <a href="https://github.com/avr2002/backend-library-management-sys" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `FastAPI`, `Pydantic`, `MongoDB`, `Docker`, `GCP`
-    - Implemented a RESTful API for a Library Management System using **FastAPI** with **MongoDB Atlas** as the database, deployed as a Docker image on **GCP**.
-
+  <div>
+    <ul>
+      <li>
+        <strong>Python Cookiecutter Project Template</strong> | <a href="https://github.com/avr2002/python-cookiecutter-template" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Cookiecutter</code>, <code>Pytest</code>, <code>GitHub Actions</code>, <code>CI/CD</code>, <code>GitHub CLI</code>, <code>Bash</code>, <code>setupTools</code>, <code>Linters</code>, <code>Pre-Commit</code></li>
+          <li>Developed a customizable template using <strong>Cookiecutter</strong>, <strong>GitHub CLI</strong>, and <strong>GitHub Actions</strong> to automate the creation of Python project repositories, including setup for linting, testing, CI/CD, and secrets management.</li>
+          <li>Implemented comprehensive <strong>GitHub Actions workflows</strong> for <strong>continuous integration (CI) and continuous delivery (CD)</strong>, ensuring consistent code quality and automated testing.</li>
+          <li>Integrated modern development tools and best practices such as VS Code settings, <code>pyproject.toml</code> configuration, and a suite of linting tools (<code>flake8</code>, <code>black</code>, <code>mypy</code>, etc.) to maintain code quality.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Basic Library Management System API</strong> | <a href="https://github.com/avr2002/backend-library-management-sys" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>FastAPI</code>, <code>Pydantic</code>, <code>MongoDB</code>, <code>Docker</code>, <code>GCP</code></li>
+          <li>Implemented a RESTful API for a Library Management System using <strong>FastAPI</strong> with <strong>MongoDB Atlas</strong> as the database, deployed as a Docker image on <strong>GCP</strong>.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </details>
+
 
 <details>
   <summary><h3>NLP Projects</h3></summary>
-  
-  - **Fake News Classification** | <a href="https://github.com/avr2002/Fake-News-Classification-using-RNN-and-LSTM/blob/main/notebooks/main_notebook-2.ipynb" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `TensorFlow`, `scikit-learn`, `nltk`, `langdetect`, `wordcloud`, `matplotlib`, `regex`, `numpy`, `pandas`
-    - Implemented an **LSTM Model** on <a href="https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification" target="_blank">Kaggle Fake News Dataset</a> with over 70K news text data, achieving **97% accuracy**.
-    - Along with standard text pre-processing, the `langdetect` library was used to identify & remove news in other languages (French, German, Arabic, etc.), improving model performance.
-    - For EDA, WordCloud, and plotting of bi-grams and tri-grams were used to identify the general words present in the corpus.
-    - The **LSTM Model** was built using **TensorFlow** along with pre-trained **GloVe Word Embeddings**.
-
-  - **Topic Modeling Using RACE Dataset** | <a href="https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `Regex`, `NLTK`, `Gensim`, `Scikit-Learn`, `tSNE`, `pyLDAvis`, `bokeh`, `Git`
-    - This **NLP Project** aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, classifying documents based on different themes they convey.
-    - Three **Topic Modeling algorithms** were used: **Latent Semantic Analysis (LSA)**, **Latent Dirichlet Allocation (LDA)**, and **Non-Negative Matrix Factorization (NMF)**.
-    - **BERTopic** & **Top2Vec** were also explored, yielding strong results.
-
-  - **Medical Embeddings and Clinical Trial Search Engine** | <a href="https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `Gensim`, `Word2Vec`, `FastText`, `Streamlit`, `Git`
-    - This project trains SkipGram and FastText Models on the COVID-19 Clinical Trials Dataset and builds a search engine where users can input COVID-19-related keywords to retrieve the top n similar results from the dataset.
-
+  <div>
+    <ul>
+      <li>
+        <strong>Fake News Classification</strong> | <a href="https://github.com/avr2002/Fake-News-Classification-using-RNN-and-LSTM/blob/main/notebooks/main_notebook-2.ipynb" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>scikit-learn</code>, <code>nltk</code>, <code>langdetect</code>, <code>wordcloud</code>, <code>matplotlib</code>, <code>regex</code>, <code>numpy</code>, <code>pandas</code></li>
+          <li>Implemented an <strong>LSTM Model</strong> on <a href="https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification" target="_blank">Kaggle Fake News Dataset</a> with over 70K news text data, achieving <strong>97% accuracy</strong>.</li>
+          <li>Along with standard text pre-processing, the <code>langdetect</code> library was used to identify & remove news in other languages (French, German, Arabic, etc.), improving model performance.</li>
+          <li>For EDA, WordCloud, and plotting of bi-grams and tri-grams were used to identify the general words present in the corpus.</li>
+          <li>The <strong>LSTM Model</strong> was built using <strong>TensorFlow</strong> along with pre-trained <strong>GloVe Word Embeddings</strong>.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Topic Modeling Using RACE Dataset</strong> | <a href="https://github.com/avr2002/Topic-Modelling-Using-RACE-Dataset" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Regex</code>, <code>NLTK</code>, <code>Gensim</code>, <code>Scikit-Learn</code>, <code>tSNE</code>, <code>pyLDAvis</code>, <code>bokeh</code>, <code>Git</code></li>
+          <li>This <strong>NLP Project</strong> aims to use statistical models to reveal the abstract “topics” present in a large set of text documents, classifying documents based on different themes they convey.</li>
+          <li>Three <strong>Topic Modeling algorithms</strong> were used: <strong>Latent Semantic Analysis (LSA)</strong>, <strong>Latent Dirichlet Allocation (LDA)</strong>, and <strong>Non-Negative Matrix Factorization (NMF)</strong>.</li>
+          <li><strong>BERTopic</strong> & <strong>Top2Vec</strong> were also explored, yielding strong results.</li>
+        </ul>
+      </li>
+      <br>  
+      <li>
+        <strong>Medical Embeddings and Clinical Trial Search Engine</strong> | <a href="https://github.com/avr2002/Medical-Embeddings-and-Clinical-Trial-Search-Engine" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Gensim</code>, <code>Word2Vec</code>, <code>FastText</code>, <code>Streamlit</code>, <code>Git</code></li>
+          <li>This project trains SkipGram and FastText Models on the COVID-19 Clinical Trials Dataset and builds a search engine where users can input COVID-19-related keywords to retrieve the top n similar results from the dataset.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </details>
+
 
 <details>
   <summary><h3>Computer Vision Projects</h3></summary>
-  
-  - **Image Coloring using Autoencoders** | <a href="https://github.com/avr2002/Image-Coloring-using-Autoencoders" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `TensorFlow`, `Keras`, `scikit-image`, `matplotlib`, `numpy`
-    - I tried using Autoencoders and Transfer Learning, using **VGG16** and **InceptionResNetV2** as encoder/feature extractor layers, paired with a custom decoder layer.
-    - Although the results weren't that great🥲
-
-  - **Multi-class Image Classification Model** | <a href="https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `TensorFlow`, `Keras`, `matplotlib`, `Flask`, `Gunicorn`, `pathlib`, `numpy`
-    - The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.
-    - An accuracy of 96% was achieved on test data of 150 images. Deployment was done using **Gunicorn** and **Flask API**.
-
+  <div>
+    <ul>
+      <li>
+        <strong>Image Coloring using Autoencoders</strong> | <a href="https://github.com/avr2002/Image-Coloring-using-Autoencoders" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>scikit-image</code>, <code>matplotlib</code>, <code>numpy</code></li>
+          <li>I tried using Autoencoders and Transfer Learning, using <strong>VGG16</strong> and <strong>InceptionResNetV2</strong> as encoder/feature extractor layers, paired with a custom decoder layer.</li>
+          <li>Although the results weren't that great🥲</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Multi-class Image Classification Model</strong> | <a href="https://github.com/avr2002/Image-Classification-CNN-Model-for-Real-Time-Prediction" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>TensorFlow</code>, <code>Keras</code>, <code>matplotlib</code>, <code>Flask</code>, <code>Gunicorn</code>, <code>pathlib</code>, <code>numpy</code></li>
+          <li>The project aims to classify images into driving license, social security, and others category by using a CNN model architecture.</li>
+          <li>An accuracy of 96% was achieved on test data of 150 images. Deployment was done using <strong>Gunicorn</strong> and <strong>Flask API</strong>.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </details>
+
 
 <details>
   <summary><h3>Machine Learning/Other Projects</h3></summary>
-  
-  - **Business License Status Prediction** | <a href="https://github.com/avr2002/Business-License-Status-Prediction" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `scikit-learn`, `h2o`, `tensorflow`, `flask`, `gunicorn`
-    - The project aims to predict if a customer's license should be issued, renewed, or canceled depending on features in the dataset.
-    - The problem statement was presented at <a href="https://www.interviewbit.com/contest/zs-yds-2019/" target="_blank">ZS Data Science Challenge - 2019</a>.
-
-  - **Medical Data Extraction Project** | <a href="https://github.com/avr2002/medical-data-extraction-project" target="_blank">GitHub</a>
-    - **Technologies Used:** `Python`, `Regex`, `OpenCV`, `Pytesseract`, `FastAPI`
-    - Built a Python backend using **Pytesseract**, **OpenCV**, regular expressions, and **FastAPI** as a web-serving framework.
-    - Automatically extracted important fields from patient details and medical prescriptions.
-    - Image processing was performed in **OpenCV**, followed by image-to-text conversion using **Pytesseract**, and then Regex for extracting key fields.
-
-  - **SQL Project: Provide Insights to Management in Consumer Goods Domain** 
-    - A simple project that I made while learning SQL in 2023.
-    - <a href="https://github.com/avr2002/sql-project-consumer-goods-domain" target="_blank">Project GitHub Link</a> & <a href="https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link" target="_blank">Certificate of Participation</a>
-
-  - **Credit Card Default Prediction** | <a href="https://github.com/avr2002/credit-card-default-prediction" target="_blank">GitHub</a>
-    - A classic Credit Card Default Prediction project to predict whether a borrower is likely to default in the next 2 years or not, based on customer profile data.
-    - Implemented models including Logistic Regression, Random Forest, XGBoost, LightGBM, and a vanilla Neural Network.
-
-  - **Regression Models for House Price Prediction** | <a href="https://github.com/avr2002/Regression-Models-for-House-Price-Prediction" target="_blank">GitHub</a>
-    - Predicted house prices on the Pune real-estate dataset using different regression models, including Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, and XGBoost.
-    - Also implemented a multi-layer perceptron (MLP) using TensorFlow.
-
-  - **Kaggle House Price Prediction** | <a href="https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project" target="_blank">Link</a>
-    - My very first project.
-
+  <div>
+    <ul>
+      <li>
+        <strong>Business License Status Prediction</strong> | <a href="https://github.com/avr2002/Business-License-Status-Prediction" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>scikit-learn</code>, <code>h2o</code>, <code>tensorflow</code>, <code>flask</code>, <code>gunicorn</code></li>
+          <li>The project aims to predict if a customer's license should be issued, renewed, or canceled depending on features in the dataset.</li>
+          <li>The problem statement was presented at <a href="https://www.interviewbit.com/contest/zs-yds-2019/" target="_blank">ZS Data Science Challenge - 2019</a>.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Medical Data Extraction Project</strong> | <a href="https://github.com/avr2002/medical-data-extraction-project" target="_blank">GitHub</a>
+        <ul>
+          <li><strong>Technologies Used:</strong> <code>Python</code>, <code>Regex</code>, <code>OpenCV</code>, <code>Pytesseract</code>, <code>FastAPI</code></li>
+          <li>Built a Python backend using <strong>Pytesseract</strong>, <strong>OpenCV</strong>, regular expressions, and <strong>FastAPI</strong> as a web-serving framework.</li>
+          <li>Automatically extracted important fields from patient details and medical prescriptions.</li>
+          <li>Image processing was performed in <strong>OpenCV</strong>, followed by image-to-text conversion using <strong>Pytesseract</strong>, and then Regex for extracting key fields.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>SQL Project: Provide Insights to Management in Consumer Goods Domain</strong>
+        <ul>
+          <li>A simple project that I made while learning SQL in 2023.</li>
+          <li><a href="https://github.com/avr2002/sql-project-consumer-goods-domain" target="_blank">Project GitHub Link</a> & <a href="https://drive.google.com/file/d/1QdbMXJoyvD8SASKbZYQelT-uQamhiEQ4/view?usp=share_link" target="_blank">Certificate of Participation</a></li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Credit Card Default Prediction</strong> | <a href="https://github.com/avr2002/credit-card-default-prediction" target="_blank">GitHub</a>
+        <ul>
+          <li>A classic Credit Card Default Prediction project to predict whether a borrower is likely to default in the next 2 years or not, based on customer profile data.</li>
+          <li>Implemented models including Logistic Regression, Random Forest, XGBoost, LightGBM, and a vanilla Neural Network.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Regression Models for House Price Prediction</strong> | <a href="https://github.com/avr2002/Regression-Models-for-House-Price-Prediction" target="_blank">GitHub</a>
+        <ul>
+          <li>Predicted house prices on the Pune real-estate dataset using different regression models, including Linear, Ridge, Lasso, Elastic Net, Random Forest, XGBoost, K-Nearest Neighbours, Support Vector Regressor, and XGBoost.</li>
+          <li>Also implemented a multi-layer perceptron (MLP) using TensorFlow.</li>
+        </ul>
+      </li>
+      <br>
+      <li>
+        <strong>Kaggle House Price Prediction</strong> | <a href="https://www.kaggle.com/code/amitvikramraj/house-price-prediction-competition-project" target="_blank">Link</a>
+        <ul>
+          <li>My very first project.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </details>
-
 
 * **
 
+## Knowledge Repo
+
 <details>
-  <summary><h2>Knowledge Repo</h2></summary>
-  
-  ### **<a href="https://github.com/avr2002/NLP-with-Tensorflow" target="_blank">NLP with TensorFlow</a>**
-  - My Notes from the book *Natural Language Processing with TensorFlow, 2nd-ed.* by Thushan Ganegedara.
-  - Things I have become familiar with:
-      - Word Embeddings
-      - **<a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb" target="_blank">Project: Sentence Classification using CNN</a>**
-      - RNNs, LSTMs, GRUs
-          - **<a href="https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs" target="_blank">Project: NER with RNNs</a>**
-      - Seq2Seq Learning, Language Modelling, Neural Machine Translation (NMT)
-          - **<a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb" target="_blank">Project: Neural Machine Translation: English to German</a>**
-          - **<a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb" target="_blank">Project: Language Modelling: Generating Text using LSTMs</a>**
-      - Currently learning Transformers:
-          - **<a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb" target="_blank">Project: QnA with BERT using HuggingFace</a>**
+  <summary><h3><a href="https://github.com/avr2002/NLP-with-Tensorflow" target="_blank">NLP with TensorFlow</a></h3></summary>
+  <ul>
+    <li>My Notes from the book <em>Natural Language Processing with TensorFlow, 2nd-ed.</em> by Thushan Ganegedara.</li>
+    <li>Things I have become familiar with:
+      <ul>
+        <li>Word Embeddings</li>
+        <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_05_Sentence_Classification_CNN/02_CNN_Sentence_Classification.ipynb" target="_blank">Project: Sentence Classification using CNN</a></strong></li>
+        <li>RNNs, LSTMs, GRUs
+          <ul>
+            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/tree/main/Ch_06_RNNs" target="_blank">Project: NER with RNNs</a></strong></li>
+          </ul>
+        </li>
+        <li>Seq2Seq Learning, Language Modelling, Neural Machine Translation (NMT)
+          <ul>
+            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_09_Seq-to-Seq%20Learning/01_Seq-to-Seq%20Learning-NMT.ipynb" target="_blank">Project: Neural Machine Translation: English to German</a></strong></li>
+            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_07_08_LSTM/03_Language%20Modelling%20with%20LSTMs.ipynb" target="_blank">Project: Language Modelling: Generating Text using LSTMs</a></strong></li>
+          </ul>
+        </li>
+        <li>Currently learning Transformers:
+          <ul>
+            <li><strong><a href="https://github.com/avr2002/NLP-with-Tensorflow/blob/main/Ch_10_Transformers/03_Implementing_BERT.ipynb" target="_blank">Project: QnA with BERT using HuggingFace</a></strong></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-  ### **<a href="https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn" target="_blank">Machine Learning with PyTorch and Scikit-Learn</a>**
-  - My Notes from *Machine Learning with PyTorch and Scikit-Learn* by Sebastian Raschka.
-  - Things covered so far:
-      - Perceptron, Gradient Descent
-      - Logistic Regression, Decision Tree, SVM, KNN
-      - Feature Selection, Regularization (L1 & L2)
-      - Dimensionality Reduction: PCA, LDA
-      - Model Evaluation & HyperParameter Tuning
-      - Ensemble Learning: Bagging, Boosting
-      - Sentiment Analysis, Topic Modelling
+<details>
+  <summary><h3><a href="https://github.com/avr2002/Machine-Learning-with-Pytorch-Scikit-Learn" target="_blank">Machine Learning with PyTorch and Scikit-Learn</a></h3></summary>
+  <ul>
+    <li>My Notes from <em>Machine Learning with PyTorch and Scikit-Learn</em> by Sebastian Raschka.</li>
+    <li>Things covered so far:
+      <ul>
+        <li>Perceptron, Gradient Descent</li>
+        <li>Logistic Regression, Decision Tree, SVM, KNN</li>
+        <li>Feature Selection, Regularization (L1 & L2)</li>
+        <li>Dimensionality Reduction: PCA, LDA</li>
+        <li>Model Evaluation & HyperParameter Tuning</li>
+        <li>Ensemble Learning: Bagging, Boosting</li>
+        <li>Sentiment Analysis, Topic Modelling</li>
+      </ul>
+    </li>
+  </ul>
+</details>
 
-  ### **<a href="https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/" target="_blank">Deep Learning with TensorFlow and Keras</a>**
-  - My Notes from the book *Deep Learning with TensorFlow and Keras, 3rd Edition*.
-  - Will cover selective topics from this book.
+<details>
+  <summary><h3><a href="https://github.com/avr2002/Deep-Learning-with-TensorFlow-and-Keras/" target="_blank">Deep Learning with TensorFlow and Keras</a></h3></summary>
+  <ul>
+    <li>My Notes from the book <em>Deep Learning with TensorFlow and Keras, 3rd Edition</em>.</li>
+    <li>Will cover selective topics from this book.</li>
+  </ul>
+</details>
 
-  ### **<a href="https://github.com/avr2002/mL" target="_blank">Machine Learning using Python</a>**
-  - Notes from *Machine Learning using Python* by Manaranjan Pradhan, U Dinesh Kumar.
-  - This was the very first ML book I read.
-
+<details>
+  <summary><h3><a href="https://github.com/avr2002/mL" target="_blank">Machine Learning using Python</a></h3></summary>
+  <ul>
+    <li>Notes from <em>Machine Learning using Python</em> by Manaranjan Pradhan, U Dinesh Kumar.</li>
+    <li>This was the very first ML book I read.</li>
+  </ul>
 </details>
 
 * **
 
 ## **Education**
-- BS in Data Science & Application [(CGPA: 8.5)](<a href="https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing" target="_blank">Certificate</a>) | <a href="https://study.iitm.ac.in/ds/" target="_blank">IIT Madras</a> | 2021-2025(Expected)
+- BS in Data Science & Application (<a href="https://drive.google.com/file/d/1AEtZR7kj7uhw4p4Xq9BDKpFhwYRyrR4Q/view?usp=sharing" target="_blank">CGPA: 8.5</a>) | <a href="https://study.iitm.ac.in/ds/" target="_blank">IIT Madras</a> | 2021-2025(Expected)
 
 - 12th Std. CBSE Board (<a href="https://drive.google.com/file/d/10N3ilh8IcbCXWZk8Ct2XRwW2SZ5KW0pN/view?usp=sharing" target="_blank">Percentage: 86.8%</a>) | Star International School, Ranchi, JH | 2020

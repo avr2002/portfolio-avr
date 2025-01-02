@@ -41,6 +41,15 @@
 ## **Work Experience**
 
 <details>
+  <summary><h3><a href="https://www.linkedin.com/company/pattern-hq/" target="_blank">Pattern</a> | <strong>ML Platform Engineer</strong> | <strong>Jan 2025 - Present</strong></h3></summary>
+  <div>
+    <p><strong>Skills:</strong> <code>Python, MLOps</code></p>
+    <ul>
+      <li>MLOps & Cloud</li>
+    </ul>
+  </div>
+</details>
+<details>
   <summary><h3><a href="https://mlops-club.org/" target="_blank">MLOps Club</a> | <strong>Course Co-author</strong> | <strong>June 2024 - Present</strong></h3></summary>
   <div>
     <p><strong>Skills:</strong> <code>Python</code>, <code>AWS</code>, <code>Observability & Monitoring</code></p>

@@ -41,7 +41,7 @@
 ## **Work Experience**
 
 <details>
-  <summary><h3><a href="https://mlops-club.org/" target="_blank">MLOps Club</a> | <strong>Software Engineer</strong> | <strong>June 2024 - Present</strong></h3></summary>
+  <summary><h3><a href="https://mlops-club.org/" target="_blank">MLOps Club</a> | <strong>Course Co-author</strong> | <strong>June 2024 - Present</strong></h3></summary>
   <div>
     <p><strong>Skills:</strong> <code>Python</code>, <code>AWS</code>, <code>Observability & Monitoring</code></p>
     <ul>
